@@ -1,4 +1,3 @@
-# config for enifex
-
-project:
-  name: enifex - main
+config:
+  project: enifex
+  env: default
