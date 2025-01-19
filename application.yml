@@ -1,1 +1,2 @@
-# global conf
+config:
+  global: this is global config set in application.yml
