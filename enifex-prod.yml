@@ -1,2 +1,3 @@
-project:
-  name: enifex on prod
+config:
+  project: enifex
+  env: prod
