@@ -1,0 +1,6 @@
+config:
+  project: uc
+  env: dev
+
+captcha:
+  type: SIMPLE_CAPTCHA

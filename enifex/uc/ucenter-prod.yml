@@ -1,0 +1,6 @@
+config:
+  project: uc
+  env: prod
+
+captcha:
+  type: GEE_TEST_V4
