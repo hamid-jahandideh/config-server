@@ -1,5 +1,5 @@
 config:
-  project: ucenter
+  project: uc
   env: dev
 
 captcha:
