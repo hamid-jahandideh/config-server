@@ -1,6 +1,0 @@
-config:
-  project: ucenter
-  env: prod
-
-  captcha:
-    type: GEE_TEST_V4_UPDATED_UCENTER_@2

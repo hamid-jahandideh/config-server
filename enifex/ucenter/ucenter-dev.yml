@@ -1,6 +1,0 @@
-config:
-  project: ucenter
-  env: dev
-
-captcha:
-  type: SIMPLE_CAPTCHA

@@ -3,4 +3,4 @@ config:
   env: prod
 
 captcha:
-  type: GEE_TEST_V4_UPDATED_@2
+  type: GEE_TEST_V4
