@@ -3,4 +3,4 @@ config:
   env: default
 
 project:
-  name: enifex
+  name: GEE_TEST_V4
