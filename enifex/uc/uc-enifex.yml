@@ -1,6 +1,6 @@
 config:
-  project: uc
-  env: dev
+  project: ENIFEX
+  env: ENIFEX
 
 captcha:
-  type: SIMPLE_CAPTCHA
+  type: ENIFEX
