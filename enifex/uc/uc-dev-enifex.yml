@@ -3,4 +3,4 @@ config:
   env: ENIFEX
 
 captcha:
-  type: GEE_TEST_V4
+  type: SIMPLE_CAPTCHA
